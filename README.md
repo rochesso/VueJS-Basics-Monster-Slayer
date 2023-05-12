@@ -7,4 +7,6 @@ Monster Slayer is a Vue.js practice game with a simple objective: defeat the mon
 ## Install
 After downloading the files, you can access the project by opening the `index.html` file.
 
+### [Certificate](https://www.udemy.com/certificate/UC-9601468e-cbce-4dae-a27f-3f8be90af17e/)
+
 ### [Credits](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
